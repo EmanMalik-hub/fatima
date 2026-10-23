@@ -1,1 +1,1 @@
-print("Hello world and most   beautiful site fo the world and most  ")
+print("Hello world")
